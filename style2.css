@@ -26,10 +26,14 @@ header {
   margin-left: 20px;
 }
 
-.social {
+.fab {
+  font-size: 32px;
+}
+
+.position {
   position: absolute;
-  top: 22px;
-  right: 22px;
+  top: 100px;
+  right: 40px;
 }
 
 header .heading {
